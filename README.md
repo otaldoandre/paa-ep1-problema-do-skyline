@@ -6,7 +6,7 @@ Aqui vão algumas instruções para rodar o projeto.
 
 O professor vai corrigir com **Python 3.15.2** no Windows 11, então todo mundo tem que usar essa versão (se possível!).
 
-1. Baixe e instale o **Windows installer (64-bit)** em https://www.python.org/downloads/release/python-3152/
+1. Baixe e instale o installer em https://www.python.org/downloads/release/python-3152/
 2. Abra o terminal de novo e confira:
 
 ```powershell
@@ -19,7 +19,7 @@ py -3.15 --version    # deve mostrar Python 3.15.2
 ## 2. Clonar e criar o ambiente virtual
 
 ```powershell
-git clone <url-do-repositorio>
+git clone [<url-do-repositorio>](https://github.com/otaldoandre/paa-ep1-problema-do-skyline.git)
 cd paa-ep1
 py -3.15 -m venv .venv
 .venv\Scripts\activate
@@ -50,7 +50,7 @@ No **VS Code**: `Ctrl+Shift+P` → **Python: Select Interpreter** → escolha o 
 
 ## 5. Prazos e to-do list
 
-**Entrega no AVA: 12/12/2026** (oficial). Nossa meta: **10/12**. Cada dia de atraso tira 1 ponto.
+**Entrega no AVA: 12/12/2026** (oficial). Meta (sugestão): **10/12**. Cada dia de atraso tira 1 ponto.
 
 Vai aí uma sugestão de como podemos dividir o trabalho:
 
